@@ -52,6 +52,6 @@ This repo showcases my hands-on work with AWS services, Python, SQL, and Big Dat
 
 ## 📫 Connect with Me
 - **LinkedIn:** [[(https://www.linkedin.com/in/rahul-gaikwad-b544413a3/)  ](https://www.linkedin.com/in/rahul-gaikwad-b544413a3/)
-- **GitHub:** [github.com/rahulgaikwad](https://github.com/rahulgaikwad)
+- **GitHub:** [[github.com/rahulgaikwad](https://github.com/rahulgaikwad)](https://github.com/gaikwadrahul181818-rahul/rahul-data-engineer)
 
 ---
